@@ -1,0 +1,10 @@
+
+# File konfigurasi dan rahasia
+.env
+.env.*
+!.env.example
+
+# File sementara
+*.log
+.DS_Store
+Thumbs.db
